@@ -1280,7 +1280,6 @@ payload:
   - '+.adskeeper.com'
   - '+.adsloads.com'
   - '+.adslot.uc.cn'
-  - '+.adspeed.net'
   - '+.adspirit.de'
   - '+.adspruce.com'
   - '+.adspsp.com'
