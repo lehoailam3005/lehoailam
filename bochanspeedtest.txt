@@ -1,0 +1,13 @@
+payload:
+  - '+.speedtest.net'
+  - '+.fast.com'
+  - '+.speedtest.vn'
+  - '+.projectstream.google.com'
+  - '+.speedtest.cesnet.cz'
+  - '+.speakeasy.net'
+  - '+.speed.io'
+  - '+.speed.cloudflare.com'
+  - '+.speedtest.midco.net'
+  - '+.speedtest.telstra.com'
+  - '+.speedtest.xfinity.com'
+  - '+.speedtest.googlefiber.net'
